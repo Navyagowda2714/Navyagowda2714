@@ -3,104 +3,160 @@
 <!--         Premium GitHub Profile           -->
 <!-- ========================================= -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:5b21b6,100:06b6d4&height=240&section=header&text=Navyashree%20Byregowda&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20%26%20AI%20Systems&descAlignY=65&descSize=18"/>
+
 <div align="center">
 
-# 👋 Hi, I'm Navyashree Byregowda
-
-### 🚀 AI Engineer • Data Scientist • GenAI & AI Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+production-ready+AI+systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning;Turning+Data+into+Business+Impact;Open+to+AI+Engineer+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning;Turning+Data+into+Business+Impact;Open+to+AI+Engineer+Opportunities" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/navyashree-byregowda-472821196/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:navyashreebyregowda@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-AI%20Engineer-00F5FF?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20ML%20%7C%20Production-9D4EDD?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Location-Naples%2C%20Italy-00D26A?style=for-the-badge&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-0EA5E9?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20ML%20%7C%20Deployment-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Location-Naples%2C%20Italy-10B981?style=for-the-badge&labelColor=0B1020" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I am an AI Engineer and Data Scientist passionate about building reliable, scalable, and production-ready AI systems.
+I am an AI Engineer and Data Scientist focused on building **scalable, production-ready AI systems**.
 
-My work spans:
+My expertise spans:
 
 - Machine Learning & Deep Learning
-- LLM-based systems (RAG, Embeddings, Agents)
+- LLM systems (RAG, embeddings, AI agents)
 - End-to-end ML pipelines
-- Data analytics for decision-making
+- Model evaluation & optimization
+- Data-driven business insights
 
-I focus not just on training models — but on building systems that can be deployed, monitored, and improved in real-world environments.
+I don't just build models — I build systems that can be deployed, monitored, and improved in real-world environments.
 
-I thrive in startup-style environments where ownership, speed, and impact matter.
+I thrive in fast-moving, startup-style environments where ownership and impact matter.
 
 ---
 
 # ⭐ Featured Projects
 
-## 📊 FATER Challenge — Retail Analytics & Segmentation  
-**Domain:** Retail Data Science  
-Built clustering-driven segmentation models to analyze store performance and customer patterns.  
-Developed insights to support data-driven business decisions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Repository:  
-https://github.com/Navyagowda2714/FATER_CHALLENGE
+### 🧩 FATER Challenge  
+**Retail Analytics & Segmentation**
+
+Clustering-based segmentation for business performance analysis and data-driven strategy.
+
+🔗 https://github.com/Navyagowda2714/FATER_CHALLENGE  
+
+<img src="https://img.shields.io/badge/ML-Clustering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 OULAD Learning Analytics  
+**Predictive Modeling**
+
+Built ML models to predict student success using structured educational datasets.
+
+🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset  
+
+<img src="https://img.shields.io/badge/ML-Prediction-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-Evaluation-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stock Market Analysis  
+**Data Pipeline & Insight Generation**
+
+End-to-end financial data exploration and trend-based insights.
+
+🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis  
+
+<img src="https://img.shields.io/badge/Data-Pipeline-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Financial-Analytics-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐶 Dog Breed Classifier  
+**Deep Learning (CNN)**
+
+Image classification pipeline demonstrating model training and evaluation workflows.
+
+🔗 https://github.com/Navyagowda2714/Dog-breed-classifier  
+
+<img src="https://img.shields.io/badge/DeepLearning-CNN-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-Images-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Wheat Growth Stage Classification  
+**Applied Computer Vision**
+
+Deep learning model for agricultural image classification in real-world conditions.
+
+🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification  
+
+<img src="https://img.shields.io/badge/CV-Classification-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepLearning-Modeling-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 SwiftChat  
+**iOS Messaging Prototype**
+
+SwiftUI-based messaging UI prototype showcasing frontend product thinking.
+
+🔗 https://github.com/Navyagowda2714/Swiftchat  
+
+<img src="https://img.shields.io/badge/Swift-SwiftUI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/iOS-Prototype-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 OULAD Learning Analytics — Student Performance Prediction  
-**Domain:** Predictive Modeling  
+# 📊 GitHub Analytics
 
-Developed ML models to predict student success using structured learning activity datasets.  
-Implemented preprocessing, feature engineering, model evaluation, and performance comparison.
+<div align="center">
 
-🔗 Repository:  
-https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=tokyonight" width="100%"/>
 
----
+<br/>
 
-## 📈 Stock Market Analysis — Data Pipeline & Insight Generation  
-**Domain:** Financial Analytics  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=tokyonight" width="49%"/>
 
-Built an end-to-end exploratory analysis workflow for stock market data.  
-Performed preprocessing, trend analysis, and visualization-driven insights.
+<br/>
 
-🔗 Repository:  
-https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navyagowda2714&theme=tokyonight&utcOffset=1" width="49%"/>
 
----
-
-## 🐶 Dog Breed Classifier — Deep Learning (Computer Vision)  
-**Domain:** CNN Image Classification  
-
-Designed a deep learning pipeline for image-based classification.  
-Demonstrates experience in model training, dataset handling, and evaluation.
-
-🔗 Repository:  
-https://github.com/Navyagowda2714/Dog-breed-classifier
-
----
-
-## 🌾 Wheat Growth Stage Classification — Applied CV  
-**Domain:** Agricultural Deep Learning  
-
-Applied deep learning models to classify growth stages from agricultural images.  
-Shows ability to work with real-world noisy image datasets.
-
-🔗 Repository:  
-https://github.com/Navyagowda2714/Wheat-growth-stage-classification
+</div>
 
 ---
 
@@ -142,48 +198,25 @@ https://github.com/Navyagowda2714/Wheat-growth-stage-classification
 
 </details>
 
-<details>
-<summary><b>☁️ Cloud & Tools</b></summary>
-<br/>
-
-![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=blue)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Navyagowda2714&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyagowda2714&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=Navyagowda2714&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 🤝 Let’s Connect
 
 <div align="center">
 
-I’m open to AI Engineer / GenAI / ML opportunities  
+Open to AI Engineer / GenAI / ML opportunities.  
 Let’s build impactful AI systems together.
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/navyashree-byregowda-472821196/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:navyashreebyregowda@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:5b21b6,100:0b1020&height=120&section=footer"/>
