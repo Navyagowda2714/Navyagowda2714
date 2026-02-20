@@ -41,3 +41,86 @@ const navyashree = {
   focus: "Building reliable and scalable AI systems for real-world impact",
   currently_exploring: ["LLM evaluation", "AI safety", "Reinforcement Learning"],
 };
+
+🎓 Master’s in Data Science
+📊 Strong background in analytics and ML pipelines
+🤖 Passionate about building GenAI systems & intelligent agents
+🚀 Interested in startup AI engineering environments
+
+🛠 Tech Stack
+🧩 AI / ML
+
+Python
+
+PyTorch
+
+TensorFlow
+
+Scikit-learn
+
+NumPy
+
+Pandas
+
+🤖 GenAI
+
+RAG
+
+Embeddings
+
+Prompt Engineering
+
+AI Agents
+
+⚙️ MLOps / Data
+
+Docker
+
+MLflow
+
+Airflow
+
+SQL
+
+Azure / GCP
+
+⭐ Featured Projects
+📊 Data Science
+
+FATER Challenge
+Retail analytics + segmentation using clustering
+🔗 https://github.com/Navyagowda2714/FATER_CHALLENGE
+
+OULAD Learning Analytics
+Student performance prediction
+🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset
+
+Stock Market Analysis
+Data preprocessing + insights
+🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis
+
+🧠 Deep Learning
+
+Dog Breed Classifier
+CNN-based image classification
+🔗 https://github.com/Navyagowda2714/Dog-breed-classifier
+
+Wheat Growth Stage Classification
+Deep learning for agriculture images
+🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification
+
+📱 App Prototype
+
+SwiftChat
+Swift-based messaging UI
+🔗 https://github.com/Navyagowda2714/Swiftchat
+
+📈 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Navyagowda2714&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navyagowda2714&layout=compact&theme=tokyonight" /> </div>
+🤝 Let’s Connect
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+📩 Email: YOUR_EMAIL
+
+✨ Always open to AI engineering opportunities.
