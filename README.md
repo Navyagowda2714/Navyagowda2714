@@ -3,7 +3,7 @@
 <!--         Premium GitHub Profile           -->
 <!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:5b21b6,100:06b6d4&height=240&section=header&text=Navyashree%20Byregowda&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20GenAI%20%26%20AI%20Systems&descAlignY=65&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=220&amp;section=header&amp;text=Navyashree%20Byregowda&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=40" />
 
 <div align="center">
 
