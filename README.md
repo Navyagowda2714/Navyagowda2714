@@ -55,127 +55,136 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <table>
 <tr>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ navyashreebyregowda</h3>
-    <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI,…</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/navyashreebyregowda/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/GenAI-LLM-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/RAG-Embeddings-7C3AED?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ navyashreebyregowda</h3>
+  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI, LLMs, data ana…</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/navyashreebyregowda/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/GenAI-LLM-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ Stroke-prediction</h3>
-    <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle…</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/Stroke-prediction"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Stroke-prediction/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
-  </div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <div>
-    <h3>⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</h3>
-    <p>Project repository</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
-  </div>
-</td>
-<td width="50%" valign="top">
-  <div>
-    <h3>⭐ Wheat-growth-stage-classification-</h3>
-    <p>Wheat growth stage classification</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ Stroke-prediction</h3>
+  <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featurin…</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Stroke-prediction"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Stroke-prediction"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Stroke-prediction/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ BigData-Mod-A-Stock-Market-Analysis-</h3>
-    <p>Project repository</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ BigData-Mod-A-Stock-Market-Analysis-</h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ AI-Trip-Planner</h3>
-    <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, b…</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/AI-Trip-Planner/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ Wheat-growth-stage-classification-</h3>
+  <p>Wheat growth stage classification</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ MLOPS_PROJECT</h3>
-    <p>MLOPS_PROJECT</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ Swiftchat</h3>
-    <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, keyboard focus, and typing indi…</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-20</sub>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Featured-Top%208-F59E0B?style=for-the-badge&labelColor=0B1020"/><br/><br/>
-    <a href="https://github.com/Navyagowda2714/Swiftchat"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Swiftchat/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ AI-Trip-Planner</h3>
+  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and date…</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/AI-Trip-Planner/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ MLOPS_PROJECT</h3>
+  <p>MLOPS_PROJECT</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ Swiftchat</h3>
+  <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, keyboard focus, and typing indicators.</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-20</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Swiftchat"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Swiftchat"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Swiftchat/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 </tr>
 </table>
 
 <details>
-  <summary><b>📚 View all projects (3 more)</b></summary>
-  <br/>
-  <h3 id="ios-swift">📌 iOS / Swift</h3>
+<summary><b>📚 View all projects (3 more)</b></summary>
+<br/>
+<h3 id="ios-swift">📌 iOS / Swift</h3>
 <table>
 <tr>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ SwiftChat_</h3>
-    <p>Project repository</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
-    <br/><br/>
-    
-    <a href="https://github.com/Navyagowda2714/SwiftChat_"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ SwiftChat_</h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/SwiftChat_"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/SwiftChat_"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 <td width="50%"></td>
 </tr>
@@ -185,33 +194,36 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <table>
 <tr>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ Dog-breed-classifier</h3>
-    <p>Project repository</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    
-    <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Dog-breed-classifier/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ Dog-breed-classifier</h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Dog-breed-classifier/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 <td width="50%" valign="top">
-  <div>
-    <h3>⭐ FATER_CHALLENGE</h3>
-    <p>Project repository</p>
-    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-    <br/><br/>
-    
-    <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE/stargazers"><img src="https://img.shields.io/badge/Stars%200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
-  </div>
+<div>
+  <h3>⭐ FATER_CHALLENGE</h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
 </td>
 </tr>
 </table>
 <br/>
 </details>
+
 
 
 
