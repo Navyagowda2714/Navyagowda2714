@@ -53,74 +53,146 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### ⭐ Stroke-prediction
-**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featuring data preprocessing, model training, and performance evaluation.
-
-🔗 https://github.com/Navyagowda2714/Stroke-prediction
-
-<img src="https://img.shields.io/badge/Stack-HTML-111827?style=for-the-badge"/>
-
+  <div>
+    <h3>⭐ Stroke-prediction</h3>
+    <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle…</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/Stroke-prediction">https://github.com/Navyagowda2714/Stroke-prediction</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Healthcare-Analytics-DC2626?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/ML-Prediction-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+  </div>
 </td>
 <td width="50%" valign="top">
-
-### ⭐ AI-Trip-Planner
-AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and dates. It recommends destinations, attractions, accommodations, and routes helping travelers plan smarter, faster, and stress-free.
-
-🔗 https://github.com/Navyagowda2714/AI-Trip-Planner
-
-<img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⭐ MLOPS_PROJECT
-MLOPS_PROJECT
-
-🔗 https://github.com/Navyagowda2714/MLOPS_PROJECT
-
-<img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⭐ Dog-breed-classifier
-Project repository
-
-🔗 https://github.com/Navyagowda2714/Dog-breed-classifier
-
-<img src="https://img.shields.io/badge/DeepLearning-CNN-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ComputerVision-Images-111827?style=for-the-badge"/>
-
+  <div>
+    <h3>⭐ AI-Trip-Planner</h3>
+    <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, b…</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">https://github.com/Navyagowda2714/AI-Trip-Planner</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/AI-Assistant-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/Product-Workflow-16A34A?style=for-the-badge&labelColor=0B1020"/>
+  </div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ⭐ BigData-Mod-A-Stock-Market-Analysis-
-Project repository
-
-🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-
-
-<img src="https://img.shields.io/badge/Data-Pipeline-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial-Analytics-111827?style=for-the-badge"/>
-
+  <div>
+    <h3>⭐ MLOPS_PROJECT</h3>
+    <p>MLOPS_PROJECT</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">https://github.com/Navyagowda2714/MLOPS_PROJECT</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/MLOps-Pipeline-16A34A?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/Deployment-Ready-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+  </div>
 </td>
 <td width="50%" valign="top">
-
-### ⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
-Project repository
-
-🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
-
-<img src="https://img.shields.io/badge/ML-Prediction-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model-Evaluation-111827?style=for-the-badge"/>
-
+  <div>
+    <h3>⭐ Dog-breed-classifier</h3>
+    <p>Project repository</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">https://github.com/Navyagowda2714/Dog-breed-classifier</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/ComputerVision-Image-2563EB?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/DeepLearning-CNN-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ BigData-Mod-A-Stock-Market-Analysis-</h3>
+    <p>Project repository</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-">https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Data-Pipeline-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/Finance-Analytics-16A34A?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</h3>
+    <p>Project repository</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset">https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/ML-Prediction-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/Model-Evaluation-16A34A?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ FATER_CHALLENGE</h3>
+    <p>Project repository</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">https://github.com/Navyagowda2714/FATER_CHALLENGE</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/ML-Clustering-16A34A?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/Analytics-Segmentation-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ Wheat-growth-stage-classification-</h3>
+    <p>Wheat growth stage classification</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-">https://github.com/Navyagowda2714/Wheat-growth-stage-classification-</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/ComputerVision-Image-2563EB?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/DeepLearning-CNN-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+  </div>
 </td>
 </tr>
 </table>
+
+<details>
+  <summary><b>📚 View all projects (3 more)</b></summary>
+  <br/>
+  <table>
+<tr>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ Swiftchat</h3>
+    <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, keyboard focus, and typing indi…</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/Swiftchat">https://github.com/Navyagowda2714/Swiftchat</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-20</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ navyashreebyregowda</h3>
+    <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI,…</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/navyashreebyregowda">https://github.com/Navyagowda2714/navyashreebyregowda</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div>
+    <h3>⭐ SwiftChat_</h3>
+    <p>Project repository</p>
+    <p>🔗 <a href="https://github.com/Navyagowda2714/SwiftChat_">https://github.com/Navyagowda2714/SwiftChat_</a></p>
+    <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
+  </div>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+</details>
+
 
 <!-- PROJECTS:END -->
 
