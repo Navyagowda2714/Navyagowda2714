@@ -55,7 +55,9 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/navyashreebyregowda">navyashreebyregowda</a></h3>
-  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI, LLMs, data analytic…</p>
+  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects…</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><b>↗ Open project</b></a>
@@ -66,7 +68,9 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Stroke-prediction">Stroke-prediction</a></h3>
-  <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featuring dat…</p>
+  <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using…</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Stroke-prediction"><b>↗ Open project</b></a>
@@ -80,6 +84,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-">BigData-Mod-A-Stock-Market-Analysis-</a></h3>
   <p>Project repository</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><b>↗ Open project</b></a>
@@ -91,6 +97,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-">Wheat-growth-stage-classification-</a></h3>
   <p>Wheat growth stage classification</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>↗ Open project</b></a>
@@ -104,6 +112,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset">BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</a></h3>
   <p>Project repository</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>↗ Open project</b></a>
@@ -114,7 +124,9 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">AI-Trip-Planner</a></h3>
-  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and dates. It…</p>
+  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries…</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>↗ Open project</b></a>
@@ -128,6 +140,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
   <p>MLOPS_PROJECT</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
@@ -138,7 +152,9 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Swiftchat">Swiftchat</a></h3>
-  <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, keyboard focus, and typing indicators.</p>
+  <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, key…</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-20</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Swiftchat"><b>↗ Open project</b></a>
@@ -158,6 +174,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
   <p>Project repository</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>↗ Open project</b></a>
@@ -169,6 +187,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/SwiftChat_">SwiftChat_</a></h3>
   <p>Project repository</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>↗ Open project</b></a>
@@ -182,6 +202,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">FATER_CHALLENGE</a></h3>
   <p>Project repository</p>
+  <br/>
+  <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><b>↗ Open project</b></a>
@@ -189,10 +211,23 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<div>
+  <h3>&nbsp;</h3>
+  <p>&nbsp;</p>
+  <br/>
+  <br/>
+  <sub>&nbsp;</sub>
+  <br/><br/>
+  <br/>
+  <br/><br/>
+  &nbsp;
+</div>
+</td>
 </tr>
 </table>
 </details>
+
 
 
 
