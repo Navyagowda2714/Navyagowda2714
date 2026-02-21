@@ -50,6 +50,78 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 # ⭐ Featured Projects
 
 <!-- PROJECTS:START -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ Stroke-prediction
+**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featuring data preprocessing, model training, and performance evaluation.
+
+🔗 https://github.com/Navyagowda2714/Stroke-prediction
+
+<img src="https://img.shields.io/badge/Stack-HTML-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ AI-Trip-Planner
+AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and dates. It recommends destinations, attractions, accommodations, and routes helping travelers plan smarter, faster, and stress-free.
+
+🔗 https://github.com/Navyagowda2714/AI-Trip-Planner
+
+<img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ MLOPS_PROJECT
+MLOPS_PROJECT
+
+🔗 https://github.com/Navyagowda2714/MLOPS_PROJECT
+
+<img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ Dog-breed-classifier
+Project repository
+
+🔗 https://github.com/Navyagowda2714/Dog-breed-classifier
+
+<img src="https://img.shields.io/badge/DeepLearning-CNN-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-Images-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ BigData-Mod-A-Stock-Market-Analysis-
+Project repository
+
+🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-
+
+<img src="https://img.shields.io/badge/Data-Pipeline-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Financial-Analytics-111827?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
+Project repository
+
+🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
+
+<img src="https://img.shields.io/badge/ML-Prediction-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-Evaluation-111827?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
 <!-- PROJECTS:END -->
 
 ---
@@ -58,17 +130,17 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=tokyonight&v=1771688152" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=tokyonight&v=1771688152" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=tokyonight&v=1771688152" width="49%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navyagowda2714&theme=tokyonight&utcOffset=1&v=__CACHE_BUST__" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=tokyonight&v=1771688152" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navyagowda2714&theme=tokyonight&utcOffset=1&v=1771688152" width="49%"/>
 
 </div>
 
