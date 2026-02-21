@@ -3,7 +3,7 @@
 <!--         Premium GitHub Profile           -->
 <!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=220&amp;section=header&amp;text=Navyashree%20Byregowda&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Navyashree%20Byregowda&fontSize=55&fontColor=ffffff&fontAlignY=40" />
 
 <div align="center">
 
@@ -35,11 +35,11 @@ I am an AI Engineer and Data Scientist focused on building **scalable, productio
 
 My expertise spans:
 
-- Machine Learning & Deep Learning
-- LLM systems (RAG, embeddings, AI agents)
-- End-to-end ML pipelines
-- Model evaluation & optimization
-- Data-driven business insights
+- Machine Learning & Deep Learning  
+- LLM systems (RAG, embeddings, AI agents)  
+- End-to-end ML pipelines  
+- Model evaluation & optimization  
+- Data-driven business insights  
 
 I don't just build models — I build systems that can be deployed, monitored, and improved in real-world environments.
 
@@ -49,94 +49,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 
 # ⭐ Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 FATER Challenge  
-**Retail Analytics & Segmentation**
-
-Clustering-based segmentation for business performance analysis and data-driven strategy.
-
-🔗 https://github.com/Navyagowda2714/FATER_CHALLENGE  
-
-<img src="https://img.shields.io/badge/ML-Clustering-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Analytics-111827?style=for-the-badge"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 OULAD Learning Analytics  
-**Predictive Modeling**
-
-Built ML models to predict student success using structured educational datasets.
-
-🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
-
-<img src="https://img.shields.io/badge/ML-Prediction-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model-Evaluation-111827?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Stock Market Analysis  
-**Data Pipeline & Insight Generation**
-
-End-to-end financial data exploration and trend-based insights.
-
-🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-
-
-<img src="https://img.shields.io/badge/Data-Pipeline-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial-Analytics-111827?style=for-the-badge"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🐶 Dog Breed Classifier  
-**Deep Learning (CNN)**
-
-Image classification pipeline demonstrating model training and evaluation workflows.
-
-🔗 https://github.com/Navyagowda2714/Dog-breed-classifier  
-
-<img src="https://img.shields.io/badge/DeepLearning-CNN-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ComputerVision-Images-111827?style=for-the-badge"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 Wheat Growth Stage Classification  
-**Applied Computer Vision**
-
-Deep learning model for agricultural image classification in real-world conditions.
-
-🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification-
-
-<img src="https://img.shields.io/badge/CV-Classification-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepLearning-Modeling-111827?style=for-the-badge"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 SwiftChat  
-**iOS Messaging Prototype**
-
-SwiftUI-based messaging UI prototype showcasing frontend product thinking.
-
-🔗 https://github.com/Navyagowda2714/Swiftchat  
-
-<img src="https://img.shields.io/badge/Swift-SwiftUI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/iOS-Prototype-111827?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ---
 
@@ -144,17 +58,17 @@ SwiftUI-based messaging UI prototype showcasing frontend product thinking.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navyagowda2714&theme=tokyonight&utcOffset=1" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=tokyonight&v=__CACHE_BUST__" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Navyagowda2714&theme=tokyonight&utcOffset=1&v=__CACHE_BUST__" width="49%"/>
 
 </div>
 
