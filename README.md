@@ -123,13 +123,13 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">AI-Trip-Planner</a></h3>
-  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries…</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
+  <p>MLOPS_PROJECT</p>
   <br/>
   <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>↗ Open project</b></a>
+  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -138,13 +138,13 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
-  <p>MLOPS_PROJECT</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">AI-Trip-Planner</a></h3>
+  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries…</p>
   <br/>
   <br/>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
+  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -227,6 +227,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </tr>
 </table>
 </details>
+
 
 
 
