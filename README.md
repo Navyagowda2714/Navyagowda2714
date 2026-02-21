@@ -71,7 +71,7 @@ Clustering-based segmentation for business performance analysis and data-driven 
 
 Built ML models to predict student success using structured educational datasets.
 
-🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD--Open-university-learning-analytics-dataset  
+🔗 https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset
 
 <img src="https://img.shields.io/badge/ML-Prediction-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Model-Evaluation-111827?style=for-the-badge"/>
@@ -87,7 +87,7 @@ Built ML models to predict student success using structured educational datasets
 
 End-to-end financial data exploration and trend-based insights.
 
-🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis  
+🔗 https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-
 
 <img src="https://img.shields.io/badge/Data-Pipeline-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Financial-Analytics-111827?style=for-the-badge"/>
