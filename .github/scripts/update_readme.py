@@ -3,6 +3,7 @@ import re
 import time
 import requests
 from html import escape
+from urllib.parse import quote
 
 USERNAME = os.environ.get("USERNAME", "").strip()
 TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
@@ -22,7 +23,6 @@ if TOKEN:
 def fetch_repos():
     """
     Fetch public, non-fork, non-archived repos owned by USERNAME.
-    Sorted by recently updated.
     """
     url = f"https://api.github.com/users/{USERNAME}/repos"
     params = {"per_page": 100, "sort": "updated", "direction": "desc", "type": "owner"}
@@ -35,20 +35,104 @@ def fetch_repos():
         if repo.get("private") or repo.get("fork") or repo.get("archived"):
             continue
         if repo.get("name", "").lower() == USERNAME.lower():
-            # exclude profile repo
-            continue
+            continue  # profile repo
         clean.append(repo)
-
     return clean
 
 
 # ----------------------------
-# Visual helpers
+# Scoring + Categorization
 # ----------------------------
-def shields_badge(label, value, color="111827", logo=None):
+ML_AI_KEYWORDS = {
+    "llm": 12, "rag": 10, "langchain": 10, "embeddings": 9, "agent": 9, "agents": 9,
+    "genai": 10, "prompt": 7, "transformer": 8, "nlp": 7,
+    "machine learning": 9, "deep learning": 9, "model": 4, "prediction": 6,
+    "classification": 6, "regression": 5, "clustering": 7, "kmeans": 7, "k-means": 7,
+    "computer vision": 9, "vision": 7, "cnn": 8, "image": 6, "segmentation": 7,
+    "analytics": 5, "data": 3, "time series": 6, "forecast": 6,
+    "health": 5, "medical": 5, "als": 7, "stroke": 7,
+}
+
+DEPRIORITIZE = {
+    "test": -2, "demo": -2, "practice": -2, "tmp": -3, "sample": -2, "notes": -2
+}
+
+def normalize_text(s: str) -> str:
+    return " ".join((s or "").lower().replace("_", " ").replace("-", " ").split())
+
+def repo_score(repo: dict) -> float:
+    name = normalize_text(repo.get("name", ""))
+    desc = normalize_text(repo.get("description", ""))
+    blob = f"{name} {desc}"
+
+    score = 0.0
+    for k, w in ML_AI_KEYWORDS.items():
+        if k in blob:
+            score += w
+    for k, w in DEPRIORITIZE.items():
+        if k in blob:
+            score += w
+
+    lang = (repo.get("language") or "").lower()
+    if lang in {"python", "jupyter notebook"}:
+        score += 2.5
+    if lang == "swift":
+        score += 1.5
+
+    stars = repo.get("stargazers_count", 0) or 0
+    forks = repo.get("forks_count", 0) or 0
+    score += min(stars * 0.6, 6)
+    score += min(forks * 0.3, 3)
+
+    if repo.get("description"):
+        score += 1.5
+
+    # Freshness signal (weak): pushed recently helps, but relevance matters more
+    pushed = repo.get("pushed_at") or ""
+    if pushed:
+        score += 0.5
+
+    return score
+
+def sort_repos(repos: list[dict]) -> list[dict]:
+    def key(repo):
+        score = repo_score(repo)
+        updated = repo.get("pushed_at") or repo.get("updated_at") or ""
+        stars = repo.get("stargazers_count", 0) or 0
+        return (score, updated, stars)
+    return sorted(repos, key=key, reverse=True)
+
+def category_of(repo: dict) -> str:
     """
-    Keep your exact badge vibe: for-the-badge + dark labelColor.
+    Bucket into portfolio-style categories.
     """
+    name = normalize_text(repo.get("name", ""))
+    desc = normalize_text(repo.get("description", ""))
+    blob = f"{name} {desc}"
+
+    # iOS
+    if any(k in blob for k in ["swift", "swiftui", "ios", "xcode", "websocket chat", "socket"]):
+        return "iOS / Swift"
+
+    # LLM / GenAI / NLP
+    if any(k in blob for k in ["llm", "rag", "langchain", "embeddings", "prompt", "agent", "agents", "nlp", "transformer"]):
+        return "LLM / GenAI"
+
+    # CV
+    if any(k in blob for k in ["computer vision", "cnn", "image", "segmentation", "classification", "opencv", "vision"]):
+        return "Computer Vision"
+
+    # ML / Analytics (general)
+    if any(k in blob for k in ["machine learning", "deep learning", "clustering", "kmeans", "k-means", "prediction", "regression", "analytics", "forecast", "time series"]):
+        return "ML / Analytics"
+
+    return "Other"
+
+
+# ----------------------------
+# Visual helpers (GitHub-safe)
+# ----------------------------
+def badge(label, value, color="111827", logo=None):
     label = label.replace("-", "--").replace(" ", "%20")
     value = value.replace("-", "--").replace(" ", "%20")
     base = f"https://img.shields.io/badge/{label}-{value}-{color}?style=for-the-badge&labelColor=0B1020"
@@ -56,164 +140,152 @@ def shields_badge(label, value, color="111827", logo=None):
         base += f"&logo={logo}&logoColor=white"
     return f'<img src="{base}"/>'
 
-
-def repo_tags(repo_name: str, language: str | None):
+def button(label, url, color="1E40AF", logo=None):
     """
-    Return 2–3 concise tags (badges) that look premium and consistent.
+    'Button' look using shields.
     """
-    n = repo_name.lower()
-    tags = []
+    label_enc = quote(label.replace(" ", "%20"))
+    base = f"https://img.shields.io/badge/{label_enc}-{quote('Open')}-{color}?style=for-the-badge&labelColor=0B1020"
+    if logo:
+        base += f"&logo={logo}&logoColor=white"
+    return f'<a href="{url}">{f"<img src=\\"{base}\\"/>"}</a>'
 
-    # iOS / Swift
-    if any(k in n for k in ["swift", "ios", "swiftui", "chat"]):
-        tags += [
-            shields_badge("Swift", "SwiftUI", "F05138", "swift"),
-            shields_badge("Realtime", "WebSockets", "DC2626"),
-        ]
-
-    # CV / Deep Learning
-    if any(k in n for k in ["dog", "breed", "wheat", "image", "classification", "cv"]):
-        tags += [
-            shields_badge("ComputerVision", "Image", "2563EB"),
-            shields_badge("DeepLearning", "CNN", "7C3AED"),
-        ]
-
-    # Retail / Segmentation / Clustering
-    if any(k in n for k in ["fater", "retail", "segmentation", "cluster", "kmeans", "k-means"]):
-        tags += [
-            shields_badge("ML", "Clustering", "16A34A"),
-            shields_badge("Analytics", "Segmentation", "0EA5E9"),
-        ]
-
-    # Finance / Stock analysis
-    if any(k in n for k in ["stock", "market", "trading", "finance"]):
-        tags += [
-            shields_badge("Data", "Pipeline", "0EA5E9"),
-            shields_badge("Finance", "Analytics", "16A34A"),
-        ]
-
-    # Learning analytics / education
-    if any(k in n for k in ["oulad", "learning", "student", "education"]):
-        tags += [
-            shields_badge("ML", "Prediction", "7C3AED"),
-            shields_badge("Model", "Evaluation", "16A34A"),
-        ]
-
-    # Healthcare / ALS
-    if any(k in n for k in ["als", "health", "stroke", "clinical", "medical"]):
-        tags += [
-            shields_badge("Healthcare", "Analytics", "DC2626"),
-            shields_badge("ML", "Prediction", "7C3AED"),
-        ]
-
-    # Trip planner / agent / AI assistant
-    if any(k in n for k in ["trip", "planner", "assistant", "agent", "chatbot"]):
-        tags += [
-            shields_badge("AI", "Assistant", "0EA5E9"),
-            shields_badge("Product", "Workflow", "16A34A"),
-        ]
-
-    # MLOps
-    if any(k in n for k in ["mlops", "deployment", "pipeline", "docker"]):
-        tags += [
-            shields_badge("MLOps", "Pipeline", "16A34A"),
-            shields_badge("Deployment", "Ready", "0EA5E9"),
-        ]
-
-    # Fallback: use language
-    if not tags:
-        lang = (language or "Project").strip()
-        tags = [shields_badge("Stack", lang, "111827")]
-
-    # return at most 3 for clean visual
-    return tags[:3]
-
-
-def pretty_desc(desc: str | None) -> str:
-    """
-    Clean, recruiter-friendly short description.
-    """
+def short_desc(desc: str | None) -> str:
     if not desc:
         return "Project repository"
     d = " ".join(desc.split())
-    # keep it short
     if len(d) > 120:
         d = d[:117].rstrip() + "…"
     return escape(d)
 
+def tags_for(repo: dict):
+    n = normalize_text(repo.get("name", ""))
+    d = normalize_text(repo.get("description", "") or "")
+    blob = f"{n} {d}"
+    lang = (repo.get("language") or "Project").strip()
 
-def repo_card(repo):
+    tags = []
+
+    # LLM first
+    if any(k in blob for k in ["llm", "rag", "langchain", "embeddings", "agent", "nlp", "transformer"]):
+        tags += [badge("GenAI", "LLM", "0EA5E9"), badge("RAG", "Embeddings", "7C3AED")]
+
+    # CV
+    if any(k in blob for k in ["computer vision", "cnn", "image", "opencv", "segmentation"]):
+        tags += [badge("ComputerVision", "Image", "2563EB"), badge("DeepLearning", "CNN", "7C3AED")]
+
+    # ML/Analytics
+    if any(k in blob for k in ["clustering", "kmeans", "prediction", "regression", "analytics", "forecast"]):
+        tags += [badge("ML", "Modeling", "16A34A"), badge("Analytics", "Insights", "0EA5E9")]
+
+    # iOS/Swift
+    if any(k in blob for k in ["swift", "swiftui", "ios", "websocket", "realtime"]):
+        tags += [badge("Swift", "SwiftUI", "F05138", "swift"), badge("Realtime", "WebSockets", "DC2626")]
+
+    if not tags:
+        tags = [badge("Stack", lang, "111827")]
+
+    # unique, max 3
+    seen = set()
+    out = []
+    for t in tags:
+        if t not in seen:
+            out.append(t)
+            seen.add(t)
+    return out[:3]
+
+def repo_card(repo: dict, featured=False) -> str:
     """
-    Premium table cell card. GitHub-safe HTML:
-    - uses <div>, <sub>, <br/>, badges
-    - no custom CSS, only inline styles (GitHub supports basic)
+    Portfolio-style card inside table cell:
+    - title
+    - short description
+    - meta (stars/forks/updated)
+    - action buttons
+    - tags
     """
     name = escape(repo["name"])
     url = repo["html_url"]
-    desc = pretty_desc(repo.get("description"))
-    lang = repo.get("language")
-
-    stars = repo.get("stargazers_count", 0)
-    forks = repo.get("forks_count", 0)
-    updated_at = repo.get("updated_at", "")  # ISO
+    desc = short_desc(repo.get("description"))
+    stars = repo.get("stargazers_count", 0) or 0
+    forks = repo.get("forks_count", 0) or 0
+    updated_at = repo.get("pushed_at") or repo.get("updated_at") or ""
     updated_short = updated_at[:10] if updated_at else ""
 
-    tags = "\n".join(repo_tags(repo["name"], lang))
+    tag_line = " ".join(tags_for(repo))
 
-    meta_row = f"""
-<sub>⭐ {stars} &nbsp;•&nbsp; 🍴 {forks} &nbsp;•&nbsp; 🕒 {escape(updated_short)}</sub>
-""".strip()
+    # Buttons
+    repo_btn = button("Repo", url, "1E40AF", "github")
+    stars_btn = button(f"Stars%20{stars}", f"{url}/stargazers", "16A34A", "github")
+
+    # Featured marker
+    featured_chip = ""
+    if featured:
+        featured_chip = f'{badge("Featured", "Top%208", "F59E0B")}<br/><br/>'
 
     return f"""
 <td width="50%" valign="top">
   <div>
     <h3>⭐ {name}</h3>
     <p>{desc}</p>
-    <p>🔗 <a href="{url}">{url}</a></p>
-    {meta_row}
+    <sub>⭐ {stars} &nbsp;•&nbsp; 🍴 {forks} &nbsp;•&nbsp; 🕒 {escape(updated_short)}</sub>
     <br/><br/>
-    {tags}
+    {featured_chip}
+    {repo_btn} &nbsp; {stars_btn}
+    <br/><br/>
+    {tag_line}
   </div>
 </td>
 """.strip()
 
-
-def build_table(repos):
-    """
-    Build a 2-column HTML table from a list of repos.
-    """
+def build_table(repos: list[dict], featured=False) -> str:
     rows = []
     for i in range(0, len(repos), 2):
-        left = repo_card(repos[i])
-        right = repo_card(repos[i + 1]) if i + 1 < len(repos) else '<td width="50%"></td>'
+        left = repo_card(repos[i], featured=featured)
+        right = repo_card(repos[i + 1], featured=featured) if i + 1 < len(repos) else '<td width="50%"></td>'
         rows.append(f"<tr>\n{left}\n{right}\n</tr>")
     return "<table>\n" + "\n".join(rows) + "\n</table>"
 
+def anchor_id(title: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
 
-def build_projects_block(repos, top_n=8):
-    """
-    Top N shown, rest in collapsible details.
-    """
-    top = repos[:top_n]
-    rest = repos[top_n:]
+def build_portfolio_projects_block(repos_sorted: list[dict], top_n=8) -> str:
+    top = repos_sorted[:top_n]
+    rest = repos_sorted[top_n:]
 
-    top_table = build_table(top) if top else "<sub>No public projects found.</sub>"
+    # Quick nav chips (interactive)
+    cats = ["LLM / GenAI", "Computer Vision", "ML / Analytics", "iOS / Swift", "Other"]
+    chips = " &nbsp; ".join([f'<a href="#{anchor_id(c)}">{badge("Category", c, "111827")}</a>' for c in cats])
+
+    featured_table = build_table(top, featured=True) if top else "<sub>No public projects found.</sub>"
 
     if not rest:
-        return top_table
+        return f"{chips}\n\n{featured_table}"
 
-    rest_table = build_table(rest)
+    # Group rest by category
+    buckets = {c: [] for c in cats}
+    for r in rest:
+        buckets[category_of(r)].append(r)
 
-    # Collapsible block (keeps your page clean but still shows everything)
+    grouped_html_parts = []
+    for c in cats:
+        items = buckets.get(c, [])
+        if not items:
+            continue
+        grouped_html_parts.append(f'<h3 id="{anchor_id(c)}">📌 {escape(c)}</h3>')
+        grouped_html_parts.append(build_table(items, featured=False))
+        grouped_html_parts.append("<br/>")
+
+    grouped_html = "\n".join(grouped_html_parts).strip()
+
     collapsible = f"""
 <details>
   <summary><b>📚 View all projects ({len(rest)} more)</b></summary>
   <br/>
-  {rest_table}
+  {grouped_html}
 </details>
 """.strip()
 
-    return top_table + "\n\n" + collapsible
+    return f"{chips}\n\n{featured_table}\n\n{collapsible}"
 
 
 # ----------------------------
@@ -225,19 +297,17 @@ def replace_between_markers(text, start, end, replacement):
         raise SystemExit(f"Markers not found: {start} ... {end}")
     return pattern.sub(rf"\1\n{replacement}\n\3", text, count=1)
 
-
 def bump_cache_bust(text):
-    # Replace all occurrences so each run forces GitHub to fetch fresh images
     return text.replace("__CACHE_BUST__", str(int(time.time())))
-
 
 def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme = f.read()
 
     repos = fetch_repos()
+    repos_sorted = sort_repos(repos)
 
-    projects_html = build_projects_block(repos, top_n=8)
+    projects_html = build_portfolio_projects_block(repos_sorted, top_n=8)
 
     readme = replace_between_markers(
         readme,
@@ -250,7 +320,6 @@ def main():
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme)
-
 
 if __name__ == "__main__":
     main()
