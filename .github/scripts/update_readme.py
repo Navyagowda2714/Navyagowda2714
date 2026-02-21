@@ -142,13 +142,15 @@ def badge(label, value, color="111827", logo=None):
 
 def button(label, url, color="1E40AF", logo=None):
     """
-    'Button' look using shields.
+    'Button' look using shields (GitHub-safe).
     """
-    label_enc = quote(label.replace(" ", "%20"))
-    base = f"https://img.shields.io/badge/{label_enc}-{quote('Open')}-{color}?style=for-the-badge&labelColor=0B1020"
+    label_text = label.replace(" ", "%20")
+    base = f"https://img.shields.io/badge/{label_text}-Open-{color}?style=for-the-badge&labelColor=0B1020"
     if logo:
         base += f"&logo={logo}&logoColor=white"
-    return f'<a href="{url}">{f"<img src=\\"{base}\\"/>"}</a>'
+
+    # No nested f-strings, no escaping needed
+    return f'<a href="{url}"><img src="{base}"/></a>'
 
 def short_desc(desc: str | None) -> str:
     if not desc:
