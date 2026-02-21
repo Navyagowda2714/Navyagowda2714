@@ -116,7 +116,7 @@ Image classification pipeline demonstrating model training and evaluation workfl
 
 Deep learning model for agricultural image classification in real-world conditions.
 
-🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification  
+🔗 https://github.com/Navyagowda2714/Wheat-growth-stage-classification-
 
 <img src="https://img.shields.io/badge/CV-Classification-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeepLearning-Modeling-111827?style=for-the-badge"/>
