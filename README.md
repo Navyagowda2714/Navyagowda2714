@@ -50,32 +50,26 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 # ⭐ Featured Projects
 
 <!-- PROJECTS:START -->
-<a href="#llm-genai"><img src="https://img.shields.io/badge/Category-LLM%20/%20GenAI-111827?style=for-the-badge&labelColor=0B1020"/></a> &nbsp; <a href="#computer-vision"><img src="https://img.shields.io/badge/Category-Computer%20Vision-111827?style=for-the-badge&labelColor=0B1020"/></a> &nbsp; <a href="#ml-analytics"><img src="https://img.shields.io/badge/Category-ML%20/%20Analytics-111827?style=for-the-badge&labelColor=0B1020"/></a> &nbsp; <a href="#ios-swift"><img src="https://img.shields.io/badge/Category-iOS%20/%20Swift-111827?style=for-the-badge&labelColor=0B1020"/></a> &nbsp; <a href="#other"><img src="https://img.shields.io/badge/Category-Other-111827?style=for-the-badge&labelColor=0B1020"/></a>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ navyashreebyregowda</h3>
-  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI, LLMs, data ana…</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/navyashreebyregowda">navyashreebyregowda</a></h3>
+  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects in Machine Learning, GenAI, LLMs, data analytic…</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><b>↗ Open project</b></a>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/navyashreebyregowda/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/GenAI-LLM-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/>
+  <img src="https://img.shields.io/badge/GenAI-LLM-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ Stroke-prediction</h3>
-  <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featurin…</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Stroke-prediction">Stroke-prediction</a></h3>
+  <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using patient health and lifestyle data, featuring dat…</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Stroke-prediction"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Stroke-prediction"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Stroke-prediction/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/Stroke-prediction"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -84,26 +78,22 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ BigData-Mod-A-Stock-Market-Analysis-</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-">BigData-Mod-A-Stock-Market-Analysis-</a></h3>
   <p>Project repository</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ Wheat-growth-stage-classification-</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-">Wheat-growth-stage-classification-</a></h3>
   <p>Wheat growth stage classification</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -112,26 +102,22 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset">BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</a></h3>
   <p>Project repository</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ AI-Trip-Planner</h3>
-  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and date…</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">AI-Trip-Planner</a></h3>
+  <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries based on user preferences, budget, and dates. It…</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/AI-Trip-Planner/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -140,26 +126,22 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ MLOPS_PROJECT</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
   <p>MLOPS_PROJECT</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ Swiftchat</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Swiftchat">Swiftchat</a></h3>
   <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, keyboard focus, and typing indicators.</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-20</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Swiftchat"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Swiftchat"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Swiftchat/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/Swiftchat"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -170,59 +152,48 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <details>
 <summary><b>📚 View all projects (3 more)</b></summary>
 <br/>
-<h3 id="ios-swift">📌 iOS / Swift</h3>
 <table>
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ SwiftChat_</h3>
-  <p>Project repository</p>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/SwiftChat_"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/SwiftChat_"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-<br/>
-<h3 id="other">📌 Other</h3>
-<table>
-<tr>
-<td width="50%" valign="top">
-<div>
-  <h3>⭐ Dog-breed-classifier</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
   <p>Project repository</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/Dog-breed-classifier/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ FATER_CHALLENGE</h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/SwiftChat_">SwiftChat_</a></h3>
+  <p>Project repository</p>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2025-11-18</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">FATER_CHALLENGE</a></h3>
   <p>Project repository</p>
   <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><img src="https://img.shields.io/badge/Open%2520Project-Open-F59E0B?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><img src="https://img.shields.io/badge/Repo-Open-1E40AF?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a> &nbsp; <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE/stargazers"><img src="https://img.shields.io/badge/Stars%25200-Open-16A34A?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
-<br/>
 </details>
+
 
 
 
