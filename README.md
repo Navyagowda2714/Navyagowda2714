@@ -151,6 +151,27 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic">CH-5-Gin-Tonic</a></h3>
+  <p>Neura</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-03-10</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Swift-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📚 View all projects (4 more)</b></summary>
+<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Swiftchat">Swiftchat</a></h3>
   <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, key…</p>
   <br/>
@@ -162,14 +183,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-</tr>
-</table>
-
-<details>
-<summary><b>📚 View all projects (3 more)</b></summary>
-<br/>
-<table>
-<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
@@ -183,6 +196,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/SwiftChat_">SwiftChat_</a></h3>
@@ -196,8 +211,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">FATER_CHALLENGE</a></h3>
@@ -211,22 +224,10 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-<td width="50%" valign="top">
-<div>
-  <h3>&nbsp;</h3>
-  <p>&nbsp;</p>
-  <br/>
-  <br/>
-  <sub>&nbsp;</sub>
-  <br/><br/>
-  <br/>
-  <br/><br/>
-  &nbsp;
-</div>
-</td>
 </tr>
 </table>
 </details>
+
 
 
 
