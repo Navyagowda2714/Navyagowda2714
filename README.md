@@ -166,7 +166,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </table>
 
 <details>
-<summary><b>📚 View all projects (4 more)</b></summary>
+<summary><b>📚 View all projects (5 more)</b></summary>
 <br/>
 <table>
 <tr>
@@ -213,6 +213,21 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/DropSpot">DropSpot</a></h3>
+  <p>A location based AR social platform, to apply and enhance our skills in AR, design, and d…</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-08</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/DropSpot"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">FATER_CHALLENGE</a></h3>
   <p>Project repository</p>
   <br/>
@@ -224,9 +239,23 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
+<td width="50%" valign="top">
+<div>
+  <h3>&nbsp;</h3>
+  <p>&nbsp;</p>
+  <br/>
+  <br/>
+  <sub>&nbsp;</sub>
+  <br/><br/>
+  <br/>
+  <br/><br/>
+  &nbsp;
+</div>
+</td>
 </tr>
 </table>
 </details>
+
 
 
 
