@@ -151,13 +151,13 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic">CH-5-Gin-Tonic</a></h3>
-  <p>Neura</p>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/DropSpot">DropSpot</a></h3>
+  <p>A location based AR social platform, to apply and enhance our skills in AR, design, and d…</p>
   <br/>
   <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-03-11</sub>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-08</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>↗ Open project</b></a>
+  <a href="https://github.com/Navyagowda2714/DropSpot"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Swift-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -172,6 +172,19 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic">CH-5-Gin-Tonic</a></h3>
+  <p>Neura</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-03-11</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Swift-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Swiftchat">Swiftchat</a></h3>
   <p>Displays the conversation, message list, and text composer. Handles scroll behaviour, key…</p>
   <br/>
@@ -183,6 +196,8 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
@@ -196,8 +211,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/SwiftChat_">SwiftChat_</a></h3>
@@ -209,19 +222,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/DropSpot">DropSpot</a></h3>
-  <p>A location based AR social platform, to apply and enhance our skills in AR, design, and d…</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-08</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/DropSpot"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 </tr>
@@ -255,6 +255,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </tr>
 </table>
 </details>
+
 
 
 
