@@ -54,19 +54,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/navyashreebyregowda">navyashreebyregowda</a></h3>
-  <p>Personal GitHub profile showcasing my work as a Data Scientist and AI Engineer — projects…</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-06</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/navyashreebyregowda"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/GenAI-LLM-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/RAG-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/Stroke-prediction">Stroke-prediction</a></h3>
   <p>**Stroke-Prediction-Main** is a machine learning project that predicts stroke risk using…</p>
   <br/>
@@ -75,7 +62,48 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Stroke-prediction"><b>↗ Open project</b></a>
   <br/><br/>
+  <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/MLOps-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset">BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</a></h3>
+  <p>Project repository</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>↗ Open project</b></a>
+  <br/><br/>
   <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-">Wheat-growth-stage-classification-</a></h3>
+  <p>Wheat growth stage classification</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
+  <p>MLOPS_PROJECT</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/MLOps-Pipelines-7C3AED?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 </tr>
@@ -95,49 +123,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-">Wheat-growth-stage-classification-</a></h3>
-  <p>Wheat growth stage classification</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset">BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset</a></h3>
-  <p>Project repository</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/ML-Modeling-16A34A?style=for-the-badge&labelColor=0B1020"/> <img src="https://img.shields.io/badge/Analytics-Insights-0EA5E9?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT">MLOPS_PROJECT</a></h3>
-  <p>MLOPS_PROJECT</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/AI-Trip-Planner">AI-Trip-Planner</a></h3>
   <p>AI Trip Planner is an intelligent travel assistant that creates personalized itineraries…</p>
   <br/>
@@ -147,6 +132,21 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Stack-Python-111827?style=for-the-badge&labelColor=0B1020"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
+  <p>Project repository</p>
+  <br/>
+  <br/>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
+  <br/><br/>
+  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>↗ Open project</b></a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
 <td width="50%" valign="top">
@@ -166,7 +166,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </table>
 
 <details>
-<summary><b>📚 View all projects (5 more)</b></summary>
+<summary><b>📚 View all projects (4 more)</b></summary>
 <br/>
 <table>
 <tr>
@@ -176,7 +176,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <p>Neura</p>
   <br/>
   <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-03-11</sub>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-09</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>↗ Open project</b></a>
   <br/><br/>
@@ -200,19 +200,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 <tr>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/Dog-breed-classifier">Dog-breed-classifier</a></h3>
-  <p>Project repository</p>
-  <br/>
-  <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-02-21</sub>
-  <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>↗ Open project</b></a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Stack-Jupyter%20Notebook-111827?style=for-the-badge&labelColor=0B1020"/>
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/SwiftChat_">SwiftChat_</a></h3>
   <p>Project repository</p>
   <br/>
@@ -224,8 +211,6 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <div>
   <h3>⭐ <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE">FATER_CHALLENGE</a></h3>
@@ -239,22 +224,10 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <img src="https://img.shields.io/badge/Stack-Project-111827?style=for-the-badge&labelColor=0B1020"/>
 </div>
 </td>
-<td width="50%" valign="top">
-<div>
-  <h3>&nbsp;</h3>
-  <p>&nbsp;</p>
-  <br/>
-  <br/>
-  <sub>&nbsp;</sub>
-  <br/><br/>
-  <br/>
-  <br/><br/>
-  &nbsp;
-</div>
-</td>
 </tr>
 </table>
 </details>
+
 
 
 
