@@ -38,6 +38,53 @@ DESC_MAX = 90  # tighter clamp => more equal heights across cards
 # ----------------------------
 # GitHub API
 # ----------------------------
+def norm(s: str) -> str:
+    return " ".join((s or "").lower().replace("_", " ").replace("-", " ").split())
+
+
+def should_exclude_repo(repo: dict) -> bool:
+    """
+    Exclude non-project repos such as profile/portfolio/meta repos.
+    Keep this conservative so only clearly unsuitable repos are removed.
+    """
+    raw_name = repo.get("name", "") or ""
+    raw_desc = repo.get("description", "") or ""
+
+    name = norm(raw_name)
+    desc = norm(raw_desc)
+    blob = f"{name} {desc}"
+
+    username_norm = norm(USERNAME)
+    username_alpha = re.sub(r"\d+", "", username_norm).strip()
+
+    # Exact username repo (GitHub profile README repo or equivalent)
+    if raw_name.lower() == USERNAME.lower():
+        return True
+
+    # Ignore obvious personal profile / portfolio repos
+    exclude_phrases = [
+        "personal github profile",
+        "github profile",
+        "profile repository",
+        "portfolio repository",
+        "personal portfolio",
+        "my portfolio",
+        "profile readme",
+    ]
+    if any(p in blob for p in exclude_phrases):
+        return True
+
+    # Common profile/portfolio repo naming patterns
+    if username_norm and name == username_norm:
+        return True
+    if username_alpha and name == username_alpha:
+        return True
+    if username_alpha and username_alpha in name and any(k in blob for k in ["profile", "portfolio", "readme"]):
+        return True
+
+    return False
+
+
 def fetch_repos():
     """
     Fetch public, non-fork, non-archived repos owned by USERNAME.
@@ -52,7 +99,7 @@ def fetch_repos():
     for repo in repos:
         if repo.get("private") or repo.get("fork") or repo.get("archived"):
             continue
-        if repo.get("name", "").lower() == USERNAME.lower():
+        if should_exclude_repo(repo):
             continue
         clean.append(repo)
     return clean
@@ -63,23 +110,84 @@ def fetch_repos():
 # ----------------------------
 KEYWORDS = {
     # LLM / GenAI
-    "llm": 20, "rag": 18, "langchain": 18, "embedding": 14, "embeddings": 14,
-    "agent": 14, "agents": 14, "genai": 16, "prompt": 12, "transformer": 14, "nlp": 12,
-    # ML / DL
-    "machine learning": 14, "deep learning": 14, "prediction": 12, "classification": 12,
-    "regression": 10, "clustering": 12, "kmeans": 12, "k-means": 12,
+    "llm": 24,
+    "rag": 22,
+    "langchain": 20,
+    "embedding": 16,
+    "embeddings": 16,
+    "agent": 16,
+    "agents": 16,
+    "genai": 18,
+    "prompt": 14,
+    "transformer": 16,
+    "nlp": 14,
+
+    # ML / DL / MLOps
+    "machine learning": 18,
+    "deep learning": 18,
+    "prediction": 14,
+    "classification": 14,
+    "regression": 12,
+    "clustering": 12,
+    "kmeans": 12,
+    "k-means": 12,
+    "mlops": 20,
+    "pipeline": 16,
+    "pipelines": 16,
+    "training": 10,
+    "inference": 10,
+
     # Computer Vision
-    "computer vision": 16, "cnn": 14, "image": 10, "opencv": 10, "segmentation": 12, "vision": 10,
-    # Analytics / TS
-    "analytics": 10, "time series": 12, "forecast": 12, "financial": 10, "stock": 12,
+    "computer vision": 16,
+    "cnn": 14,
+    "image": 10,
+    "opencv": 10,
+    "segmentation": 12,
+    "vision": 10,
+
+    # Analytics / TS / Data
+    "analytics": 12,
+    "time series": 14,
+    "forecast": 12,
+    "financial": 10,
+    "stock": 14,
+    "big data": 14,
+    "data science": 14,
+    "data analysis": 12,
+    "dataset": 10,
+
     # domain boosts
-    "health": 10, "medical": 10, "als": 14, "stroke": 14,
+    "health": 10,
+    "medical": 10,
+    "als": 16,
+    "stroke": 18,
+    "wheat": 14,
+    "university": 8,
+    "learning analytics": 16,
 }
 
-DEPRIORITIZE = {"test": -4, "demo": -3, "practice": -6, "tmp": -7, "sample": -3, "notes": -3}
+DEPRIORITIZE = {
+    "test": -4,
+    "demo": -3,
+    "practice": -6,
+    "tmp": -7,
+    "sample": -3,
+    "notes": -3,
+    "portfolio": -40,
+    "profile": -50,
+    "readme": -10,
+}
 
-def norm(s: str) -> str:
-    return " ".join((s or "").lower().replace("_", " ").replace("-", " ").split())
+STRONG_PROJECT_NAME_BOOSTS = {
+    "stroke": 10,
+    "mlops": 12,
+    "stock": 8,
+    "wheat": 8,
+    "analytics": 8,
+    "prediction": 8,
+    "classification": 8,
+}
+
 
 def repo_score(repo: dict) -> float:
     name = norm(repo.get("name", ""))
@@ -87,32 +195,45 @@ def repo_score(repo: dict) -> float:
     blob = f"{name} {desc}"
 
     score = 0.0
+
     for k, w in KEYWORDS.items():
         if k in blob:
             score += w
+
     for k, w in DEPRIORITIZE.items():
         if k in blob:
             score += w
 
+    # Prefer real project-style repos with technical naming
+    for k, w in STRONG_PROJECT_NAME_BOOSTS.items():
+        if k in name:
+            score += w
+
+    # Slight boost for richer descriptions
+    if repo.get("description"):
+        score += 1.5
+
+    # Language preference
     lang = (repo.get("language") or "").lower()
     if lang in {"python", "jupyter notebook"}:
-        score += 3.0
-    if lang == "swift":
+        score += 5.0
+    elif lang in {"swift"}:
+        score += 2.0
+    elif lang in {"r", "scala"}:
         score += 2.0
 
+    # Social proof
     stars = repo.get("stargazers_count", 0) or 0
     forks = repo.get("forks_count", 0) or 0
     score += min(stars * 0.6, 6)
     score += min(forks * 0.3, 3)
 
-    if repo.get("description"):
-        score += 1.2
-
-    # tiny freshness bump
+    # Freshness bump
     if repo.get("pushed_at"):
         score += 0.5
 
     return score
+
 
 def sort_repos(repos: list[dict]) -> list[dict]:
     def key(repo):
@@ -136,6 +257,7 @@ def badge(label: str, value: str, color="111827", logo=None) -> str:
         base += f"&logo={logo}&logoColor=white"
     return f'<img src="{base}"/>'
 
+
 def short_desc(desc: str | None) -> str:
     """
     Clamp aggressively to keep cards aligned.
@@ -146,6 +268,7 @@ def short_desc(desc: str | None) -> str:
     if len(d) > DESC_MAX:
         d = d[:DESC_MAX - 1].rstrip() + "…"
     return escape(d)
+
 
 def tags_for(repo: dict) -> list[str]:
     """
@@ -170,10 +293,15 @@ def tags_for(repo: dict) -> list[str]:
             badge("DL", "CNN", "7C3AED"),
         ]
 
-    if any(k in blob for k in ["machine learning", "deep learning", "clustering", "kmeans", "k-means", "prediction", "regression", "analytics", "forecast", "time series", "stock", "financial"]):
+    if any(k in blob for k in ["machine learning", "deep learning", "clustering", "kmeans", "k-means", "prediction", "regression", "analytics", "forecast", "time series", "stock", "financial", "dataset", "data science", "data analysis"]):
         tags += [
             badge("ML", "Modeling", "16A34A"),
             badge("Analytics", "Insights", "0EA5E9"),
+        ]
+
+    if any(k in blob for k in ["mlops", "pipeline", "pipelines", "deployment", "inference", "training"]):
+        tags += [
+            badge("MLOps", "Pipelines", "7C3AED"),
         ]
 
     if any(k in blob for k in ["swift", "swiftui", "ios", "websocket", "websockets", "real time", "realtime"]):
@@ -234,6 +362,7 @@ def repo_card(repo: dict) -> str:
         "</td>"
     )
 
+
 def blank_card() -> str:
     """
     Keep table geometry stable when odd number of cards.
@@ -254,6 +383,7 @@ def blank_card() -> str:
         "</td>"
     )
 
+
 def build_table(repos: list[dict]) -> str:
     rows = []
     for i in range(0, len(repos), 2):
@@ -261,6 +391,7 @@ def build_table(repos: list[dict]) -> str:
         right = repo_card(repos[i + 1]) if i + 1 < len(repos) else blank_card()
         rows.append(f"<tr>\n{left}\n{right}\n</tr>")
     return "<table>\n" + "\n".join(rows) + "\n</table>"
+
 
 def build_projects_block(repos_sorted: list[dict], top_n=TOP_N) -> str:
     top = repos_sorted[:top_n]
@@ -293,8 +424,10 @@ def replace_between_markers(text: str, start: str, end: str, replacement: str) -
         raise SystemExit(f"Markers not found: {start} ... {end}")
     return pattern.sub(rf"\1\n{replacement}\n\3", text, count=1)
 
+
 def bump_cache_bust(text: str) -> str:
     return text.replace("__CACHE_BUST__", str(int(time.time())))
+
 
 def main():
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -316,6 +449,7 @@ def main():
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(readme)
+
 
 if __name__ == "__main__":
     main()
