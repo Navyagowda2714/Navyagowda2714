@@ -155,7 +155,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <p>A location based AR social platform, to apply and enhance our skills in AR, design, and d…</p>
   <br/>
   <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-08</sub>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-04-09</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/DropSpot"><b>↗ Open project</b></a>
   <br/><br/>
@@ -255,6 +255,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </tr>
 </table>
 </details>
+
 
 
 
