@@ -155,7 +155,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
   <p>AI-Fitness IOS app</p>
   <br/>
   <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-06-01</sub>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-06-02</sub>
   <br/><br/>
   <a href="https://github.com/Navyagowda2714/Fitspire"><b>↗ Open project</b></a>
   <br/><br/>
@@ -255,6 +255,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </tr>
 </table>
 </details>
+
 
 
 
