@@ -151,13 +151,13 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </td>
 <td width="50%" valign="top">
 <div>
-  <h3>⭐ <a href="https://github.com/Navyagowda2714/Fitspire">Fitspire</a></h3>
+  <h3>⭐ <a href="https://github.com/Navyagowda2714/Fitspyre">Fitspyre</a></h3>
   <p>AI-Fitness IOS app</p>
   <br/>
   <br/>
-  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-06-04</sub>
+  <sub>⭐ 0 &nbsp;•&nbsp; 🍴 0 &nbsp;•&nbsp; 🕒 2026-06-05</sub>
   <br/><br/>
-  <a href="https://github.com/Navyagowda2714/Fitspire"><b>↗ Open project</b></a>
+  <a href="https://github.com/Navyagowda2714/Fitspyre"><b>↗ Open project</b></a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Swift-SwiftUI-F05138?style=for-the-badge&labelColor=0B1020&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-WebSockets-DC2626?style=for-the-badge&labelColor=0B1020"/>
 </div>
@@ -255,6 +255,7 @@ I thrive in fast-moving, startup-style environments where ownership and impact m
 </tr>
 </table>
 </details>
+
 
 
 
