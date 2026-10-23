@@ -75,7 +75,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Rule-based plan, nutrition and safety engines; HealthKit + Apple Watch sync</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/-Vision-111827?style=flat-square&logo=apple&logoColor=white" alt="Vision"/> <img src="https://img.shields.io/badge/-HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white" alt="HealthKit"/> <img src="https://img.shields.io/badge/-SwiftData-111827?style=flat-square" alt="SwiftData"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-06 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Fitspyre"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Fitspyre"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -250,7 +250,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Theme system shared with SwiftChat</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2025-11 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%"></td>
@@ -328,11 +328,11 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1792778811" width="100%" alt="Contribution overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1792789820" width="100%" alt="Contribution overview"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1792778811" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1792778811" width="32%" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1792778811" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1792789820" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1792789820" width="32%" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1792789820" width="32%" alt="GitHub stats"/>
 
 </div>
 
