@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+production-ready+AI+systems;LLM+agents+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;From+notebook+to+deployed+product" alt="Typing intro"/>
 
+<img src="https://komarev.com/ghpvc/?username=Navyagowda2714&label=Profile%20views&color=4F46E5&style=flat" alt="Profile views"/>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/navyashree-byregowda-472821196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
