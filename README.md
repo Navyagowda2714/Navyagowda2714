@@ -88,7 +88,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>FastAPI backend + Streamlit front-end, exports plan to a document</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/AI-Trip-Planner"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Dockerised Flask app with MLflow experiment tracking</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Stroke-prediction"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Stroke-prediction"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +116,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>YAML configuration, logging and packaging via setup.py</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/MLOPS_PROJECT"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>OpenCV face detector as an input gate (dog / human / invalid)</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Dog-breed-classifier"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -144,7 +144,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Full preprocess → train → evaluate workflow and write-up</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Wheat-growth-stage-classification-"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -166,7 +166,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Streamlit dashboard + report and presentation</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-B-OULAD---Open-university-learning-analytics-dataset"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +179,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Time-series trend and volatility analysis in Jupyter</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/BigData-Mod-A-Stock-Market-Analysis-"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -194,7 +194,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>MapKit discovery + CoreLocation proximity, SwiftData storage</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/-ARKit-111827?style=flat-square&logo=apple&logoColor=white" alt="ARKit"/> <img src="https://img.shields.io/badge/-RealityKit-111827?style=flat-square&logo=apple&logoColor=white" alt="RealityKit"/> <img src="https://img.shields.io/badge/-MapKit-111827?style=flat-square&logo=apple&logoColor=white" alt="MapKit"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-04 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/DropSpot"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/DropSpot"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -207,7 +207,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>SwiftUI chat UI: bubbles, composer, typing indicator</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/-Combine-111827?style=flat-square" alt="Combine"/> <img src="https://img.shields.io/badge/-WebSockets-DC2626?style=flat-square" alt="WebSockets"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Swiftchat"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/Swiftchat"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -222,7 +222,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>3D objects rendered from USDZ assets</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/-RealityKit-111827?style=flat-square&logo=apple&logoColor=white" alt="RealityKit"/> <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-04 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/CH-5-Gin-Tonic"><b>View repository →</b></a></sub>
 
 </td>
 <td width="50%" valign="top">
@@ -235,7 +235,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
   <li>Insight-driven recommendations presented to the company</li>
 </ul>
 <p><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/-R%20Markdown-75AADB?style=flat-square&logo=rstudioide&logoColor=white" alt="R Markdown"/> <img src="https://img.shields.io/badge/-K--Means-111827?style=flat-square" alt="K-Means"/></p>
-<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-02 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><b>View repository →</b></a></sub>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/FATER_CHALLENGE"><b>View repository →</b></a></sub>
 
 </td>
 </tr>
@@ -328,11 +328,11 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1792856254" width="100%" alt="Contribution overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1792873662" width="100%" alt="Contribution overview"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1792856254" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1792856254" width="32%" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1792856254" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1792873662" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1792873662" width="32%" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1792873662" width="32%" alt="GitHub stats"/>
 
 </div>
 
