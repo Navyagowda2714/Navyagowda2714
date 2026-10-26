@@ -151,7 +151,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 </table>
 
 <details>
-<summary><b>📂 More projects (7)</b></summary>
+<summary><b>📂 More projects (9)</b></summary>
 <br/>
 
 <table>
@@ -253,6 +253,26 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 <sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/SwiftChat_"><b>View repository →</b></a></sub>
 
 </td>
+<td width="50%" valign="top">
+
+<sub><b>PYTHON</b></sub>
+<h3><a href="https://github.com/Navyagowda2714/agentshield-llm-guardrails">agentshield llm guardrails</a></h3>
+<p>Defense-in-depth guardrail layer that detects and blocks direct and indirect prompt injection, data exfiltration and unsafe tool use in LLM agents: rule + trained ML detection, de-obfuscation, spotlighting, a YAML tool/data policy with human-in-the-loop, and a red-team eval harness.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/agentshield-llm-guardrails"><b>View repository →</b></a></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>PYTHON</b></sub>
+<h3><a href="https://github.com/Navyagowda2714/gitcontext-rag-code-copilot">gitcontext rag code copilot</a></h3>
+<p>RAG developer copilot that answers questions from code, git history, PRs, discussions, docs and postmortems. Hybrid BM25 + vector retrieval with RRF and reranking, inline citations, evidence-based refusal. CLI, FastAPI, Slack.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/gitcontext-rag-code-copilot"><b>View repository →</b></a></sub>
+
+</td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -328,11 +348,11 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1793017895" width="100%" alt="Contribution overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1793046069" width="100%" alt="Contribution overview"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1793017895" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1793017895" width="32%" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1793017895" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1793046069" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1793046069" width="32%" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1793046069" width="32%" alt="GitHub stats"/>
 
 </div>
 
