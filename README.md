@@ -348,11 +348,11 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1793353484" width="100%" alt="Contribution overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1793382659" width="100%" alt="Contribution overview"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1793353484" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1793353484" width="32%" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1793353484" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1793382659" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1793382659" width="32%" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1793382659" width="32%" alt="GitHub stats"/>
 
 </div>
 
