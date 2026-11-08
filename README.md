@@ -151,7 +151,7 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 </table>
 
 <details>
-<summary><b>📂 More projects (9)</b></summary>
+<summary><b>📂 More projects (12)</b></summary>
 <br/>
 
 <table>
@@ -256,14 +256,43 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 <td width="50%" valign="top">
 
 <sub><b>PYTHON</b></sub>
+<h3><a href="https://github.com/Navyagowda2714/modelroute-small-model-router">modelroute small model router</a></h3>
+<p>Fine-tune a lightweight support-ticket classifier (LoRA/QLoRA + calibrated TF-IDF baseline) and route only uncertain or complex requests to a large LLM. Threshold tuning, cost/latency Pareto eval, FastAPI + Prometheus.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-11 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/modelroute-small-model-router"><b>View repository →</b></a></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>PYTHON</b></sub>
+<h3><a href="https://github.com/Navyagowda2714/actiongraph-meeting-intelligence">actiongraph meeting intelligence</a></h3>
+<p>Turns meeting transcripts (TXT/VTT/SRT/JSON/PDF/audio) into evidence-linked action items, owners, ISO deadlines, decisions and risks; tracks open items across meetings in SQLite with a FastAPI dashboard and ICS export.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-11 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/actiongraph-meeting-intelligence"><b>View repository →</b></a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>PYTHON</b></sub>
+<h3><a href="https://github.com/Navyagowda2714/resolveai-refund-agent">resolveai refund agent</a></h3>
+<p>AI agent that investigates, decides and resolves refund requests across email, chat, phone, in-app and portal, with policy-as-code, explainable fraud checks, a safety gate and a human escalation queue. FastAPI + CLI, offline-runnable eval.</p>
+<p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+<sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-11 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/resolveai-refund-agent"><b>View repository →</b></a></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>PYTHON</b></sub>
 <h3><a href="https://github.com/Navyagowda2714/agentshield-llm-guardrails">agentshield llm guardrails</a></h3>
 <p>Defense-in-depth guardrail layer that detects and blocks direct and indirect prompt injection, data exfiltration and unsafe tool use in LLM agents: rule + trained ML detection, de-obfuscation, spotlighting, a YAML tool/data policy with human-in-the-loop, and a red-team eval harness.</p>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
 <sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/agentshield-llm-guardrails"><b>View repository →</b></a></sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <sub><b>PYTHON</b></sub>
@@ -273,7 +302,6 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 <sub>⭐ 0 &nbsp;·&nbsp; Updated 2026-10 &nbsp;·&nbsp; <a href="https://github.com/Navyagowda2714/gitcontext-rag-code-copilot"><b>View repository →</b></a></sub>
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -348,11 +376,11 @@ I'm an **AI Engineer and Data Scientist** who builds AI systems that ship — no
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1794142716" width="100%" alt="Contribution overview"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navyagowda2714&theme=github_dark&v=1794165928" width="100%" alt="Contribution overview"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1794142716" width="32%" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1794142716" width="32%" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1794142716" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Navyagowda2714&theme=github_dark&v=1794165928" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Navyagowda2714&theme=github_dark&v=1794165928" width="32%" alt="Most committed language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Navyagowda2714&theme=github_dark&v=1794165928" width="32%" alt="GitHub stats"/>
 
 </div>
 
